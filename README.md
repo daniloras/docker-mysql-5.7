@@ -1,3 +1,3 @@
-### Docker with Mysql-5.7
+### Docker with Mysql latest
 
-`docker-compose up`
+**terminal:** `$ docker-compose up -d`
